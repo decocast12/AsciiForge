@@ -1,0 +1,3 @@
+/home/c0d3/C++Proyectos/AsciiForge/build/CMakeFiles/AsciiForge.dir
+/home/c0d3/C++Proyectos/AsciiForge/build/CMakeFiles/edit_cache.dir
+/home/c0d3/C++Proyectos/AsciiForge/build/CMakeFiles/rebuild_cache.dir
